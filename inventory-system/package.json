@@ -1,0 +1,16 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "Assignment 3 - Inventory and Data Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "express": "^4.22.3",
+    "mongoose": "^8.24.5"
+  }
+}
